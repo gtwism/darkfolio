@@ -1,6 +1,6 @@
 ---
 title: The London Book Fair
-thumbnail: "../static/uploads/c0279e51944227.58ff649a8bbfb.jpg"
+thumbnail: "../static/uploads/matthew-henry-photo-1449157291145-7efd050a4d0e.jpg"
 year: "2017"
 categories:
 - Branding
