@@ -1,5 +1,5 @@
 ---
-title: Molecular Gastronomy
+title: Molecular Gasty
 thumbnail: "../static/uploads/robert-katzki-photo-1470290449668-02dd93d9420a.jpg"
 year: "2019"
 categories:
